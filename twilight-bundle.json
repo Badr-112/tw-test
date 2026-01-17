@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "test",
+        "en": "test"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "abk_824@hotmail.com",
+    "support_url": "",
+    "repository": "https://github.com/Badr-112/tw-test",
+    "components": []
+}
